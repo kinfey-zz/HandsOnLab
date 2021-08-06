@@ -18,7 +18,7 @@
 
 **TensorFlow.NET in DeepLearning with .NET Interactive**
 
-**Another samples in ./tfnetcode/TF_DEEP_LearnDemo**
+**Another samples in ./tfnetcode , it is .NET Core Console Application**
 
 ### **03_TensorFlow.NET_ML** ####
 
