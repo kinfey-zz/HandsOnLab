@@ -2,6 +2,10 @@
 
 **Use .NET Core to complete machine learning and become a data scientist, a basic development environment. Including. NET Interactive data interaction related tools tool installation**
 
+### **01_Data_Analysis** ####
+
+**Using NumSharp / .NET DataFrame / XPlot to finish data analysis**
+
 ### **02_ML.NET_00** ####
 
 **ML.NET is the native machine learning library of .NET Core. You can quickly create machine learning solutions through CLI or Visual Studio 2019**
