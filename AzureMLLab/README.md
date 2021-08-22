@@ -1,4 +1,4 @@
-### **This Hands-On-Lab is about Computer Vision in Azure Machine Learning ** ###
+### **This Hands-On-Lab is about Computer Vision in Azure Machine Learning** ###
 
 ### **00_AzureCognitiveService_OCR** ###
 
