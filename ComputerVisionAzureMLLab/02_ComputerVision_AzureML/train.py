@@ -8,7 +8,6 @@ from azureml.core.model import Model
 
 
 def load_data (folder):
-    # iterate through folders, assembling feature, label, and classname data objects
     import os
     import numpy as np
     import matplotlib.pyplot as plt
@@ -19,7 +18,6 @@ def load_data (folder):
     classnames = []
     for root, dirs, filenames in os.walk(folder):
         for d in dirs:
-            # use the folder name as the class name for this label
             classnames.append(d)
             files = os.listdir(os.path.join(root,d))
             for f in files:
@@ -46,15 +44,11 @@ features.shape
 
 x_train, x_test, y_train, y_test = train_test_split(features, labels, test_size=0.30)
 
-#Format features
 x_train = x_train.astype('float32')
 x_train /= 255
 x_test = x_test.astype('float32')
 x_test /= 255
 
-# tf.keras
-
-# Format labels
 y_train = tf.keras.utils.to_categorical(y_train, len(classnames))
 y_train = y_train.astype('float32')
 y_test = tf.keras.utils.to_categorical(y_test, len(classnames))
@@ -86,7 +80,6 @@ import tensorflow.keras.models
 model_json = model.to_json()
 with open("./outputs/starwars_model.json", "w") as json_file:
     json_file.write(model_json)
-# serialize weights to HDF5
 model.save_weights("./outputs/starwars_model.h5")
 print("Saved model to disk")
 
