@@ -13,6 +13,10 @@ Introduce how to use .NET Core in Machine Learning , including ML.NET / TensorFl
 
 Introduce Azure Machine Learning Hands On Lab about Computer Vision ，including Azure Cognitive Service , Custom Vision , and TensorFlow in Azure Machine Learning
 
+**JavaLab**
+
+Introduce how to deplay Java Application to Azure.
+
 
 ## **关于动手实验** ##
 
@@ -27,3 +31,7 @@ Introduce Azure Machine Learning Hands On Lab about Computer Vision ，including
 
 介绍如何通过Azure 的机器学习功能完成计算机视觉的相关工作，包括微软认知服务，自定义视觉服务，以及专业的Azure 机器学习服务
 
+
+**JavaLab**
+
+介绍如何部署Java应用到Azure
