@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javahol</groupId>
-	<artifactId>dockerdemo</artifactId>
+	<artifactId>dockerjaveholdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dockerdemo</name>
+	<name>dockerjaveholdemo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>

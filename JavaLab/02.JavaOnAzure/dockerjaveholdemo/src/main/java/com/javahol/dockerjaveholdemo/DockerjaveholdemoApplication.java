@@ -1,4 +1,4 @@
-package com.javahol.dockerdemo;
+package com.javahol.dockerjaveholdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,15 +7,16 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
-public class DockerdemoApplication {
+public class DockerjaveholdemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DockerdemoApplication.class, args);
+		SpringApplication.run(DockerjaveholdemoApplication.class, args);
 	}
 
-	@GetMapping("/hello")
-    public String hello() {
-        return "Hello Docker Instance";
+	
+    @GetMapping("/info")
+    public String info() {
+        return "Spring Boot MicroService on Azure";
     }
 
 }
