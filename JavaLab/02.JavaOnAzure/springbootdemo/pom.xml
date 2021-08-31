@@ -10,9 +10,9 @@
     <!-- lookup parent from repository --> 
   </parent>  
   <groupId>com.javahol</groupId>  
-  <artifactId>azuredemo</artifactId>  
+  <artifactId>springbootdemo</artifactId>  
   <version>0.0.1-SNAPSHOT</version>  
-  <name>azuredemo</name>  
+  <name>springbootdemo</name>  
   <description>Demo project for Spring Boot</description>  
   <properties> 
     <java.version>11</java.version> 
@@ -46,9 +46,9 @@
         <version>1.12.0</version>
         <configuration>
           <schemaVersion>v2</schemaVersion>
-          <subscriptionId>901e11c6-42ed-4fcc-875a-6bd77390af5b</subscriptionId>
-          <resourceGroup>azuredemo-1630310061399-rg</resourceGroup>
-          <appName>azuredemo-1630310061399</appName>
+          <subscriptionId></subscriptionId>
+          <resourceGroup></resourceGroup>
+          <appName>springbootdemo-1630410752775</appName>
           <pricingTier>B1</pricingTier>
           <region>westeurope</region>
           <runtime>

@@ -1,13 +1,13 @@
-package com.javahol.azuredemo;
+package com.javahol.springbootdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AzuredemoApplication {
+public class SpringbootdemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AzuredemoApplication.class, args);
+		SpringApplication.run(SpringbootdemoApplication.class, args);
 	}
 
 }
