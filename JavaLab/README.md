@@ -8,6 +8,10 @@ Visual Studio Code supports Java development. This example includes quick creati
 
 How to quickly deploy Java projects to Azure
 
+03.DeployToGitHubAction
+
+Use GitHub Action to publish Spring Boot apps to Azure
+
 
 #### **Hands on Lab content**
 
@@ -22,6 +26,10 @@ Visual Studio Code 支持Java 开发，本次例子包括通过Visual Studio Cod
 02.JavaOnAzure
 
 如何把Java的项目快速部署到Azure上
+
+03.DeployToGitHubAction
+
+通过 GitHub Action 部署 Spring Boot 应用到 Azure
 
 #### **实验内容**
 
