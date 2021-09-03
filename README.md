@@ -15,7 +15,7 @@ Introduce Azure Machine Learning Hands On Lab about Computer Vision ，including
 
 **JavaLab**
 
-Introduce how to deplay Java Application to Azure.
+Introduce how to deploy and migrate Java applications to Azure, including Visual Studio Code debugging Java applications, Spring Boot deployment through containers or Web App, Github Action integrated deployment to Azure, and the use of Azure Spring Cloud
 
 
 ## **关于动手实验** ##
@@ -34,4 +34,4 @@ Introduce how to deplay Java Application to Azure.
 
 **JavaLab**
 
-介绍如何部署，迁移Java应用到Azure
+介绍如何部署，迁移Java应用到Azure, 包括Visual Studio Code 调试Java 应用， Spring Boot通过容器或Web App 方式部署，Github Action集成部署到Azure , 以及Azure Spring Cloud 的使用

@@ -12,6 +12,10 @@ How to quickly deploy Java projects to Azure
 
 Use GitHub Action to publish Spring Boot apps to Azure
 
+04.AzureSpringCloud
+
+Use Spring boot to access Azure Cosmos DB , deploy to Azure Spring Cloud
+
 
 #### **Hands on Lab content**
 
@@ -30,6 +34,14 @@ Visual Studio Code 支持Java 开发，本次例子包括通过Visual Studio Cod
 03.DeployToGitHubAction
 
 通过 GitHub Action 部署 Spring Boot 应用到 Azure
+
+#### **实验内容**
+
+你可以查看pdf文件夹/markdown文件夹
+
+04.AzureSpringCloudWithCosmosDB
+
+通过 Spring Boot访问Azure Cosmos DB ,并部署到Azure Spring Cloud上
 
 #### **实验内容**
 
