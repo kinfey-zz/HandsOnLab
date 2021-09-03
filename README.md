@@ -34,4 +34,4 @@ Introduce how to deplay Java Application to Azure.
 
 **JavaLab**
 
-介绍如何部署Java应用到Azure
+介绍如何部署，迁移Java应用到Azure
