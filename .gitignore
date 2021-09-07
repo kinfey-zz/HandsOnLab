@@ -4,3 +4,5 @@ MLNetLab/tfnetcode/TF_DEEP_LearnDemo/obj
 MLNetLab/tfnetcode/TF_DEEP_WIN_GPU_LearnDemo/bin
 MLNetLab/tfnetcode/TF_DEEP_WIN_GPU_LearnDemo/obj 
 ComputerVisionAzureMLLab/02_ComputerVision_AzureML/config.json
+AzureCognitiveServiceNLPLab/demo01.wav
+AzureCognitiveServiceNLPLab/ner_model

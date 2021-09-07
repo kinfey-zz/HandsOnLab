@@ -9,6 +9,10 @@ These contents are for  technology beginner. You can download them to learn new 
 Introduce how to use .NET Core in Machine Learning , including ML.NET / TensorFlow.NET
 
 
+**AzureCognitiveNLPLab**
+
+This is Hands on Lab about NLP in Azure Cognitive Service
+
 **ComputerVisionAzureMLLab**
 
 Introduce Azure Machine Learning Hands On Lab about Computer Vision ，including Azure Cognitive Service , Custom Vision , and TensorFlow in Azure Machine Learning
@@ -25,6 +29,10 @@ Introduce how to deploy and migrate Java applications to Azure, including Visual
 **MLNetLab**
 
 介绍.NET Core如何做机器学习，包括TensorFlow.NET , ML.NET等技术
+
+**AzureCognitiveNLPLab**
+
+基于认知服务的自然语言动手实验
 
 
 **ComputerVisionAzureMLLab**
